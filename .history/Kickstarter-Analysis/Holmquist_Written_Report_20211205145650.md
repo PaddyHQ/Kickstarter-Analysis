@@ -5,12 +5,12 @@ The goal of this analysis was to pull data about several thousand Kickstarter ca
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-![Outcomes_Based_on_Launch_Date](./Resources/Theater_Outcomes_vs_Launch.pngresources\Theater_Outcomes_vs_Launch.png)
+![Outcomes_Based_on_Launch_Date](resources\Theater_Outcomes_vs_Launch.png)
 
 Across all years, our data set shows that campaigns for plays usually succeed most often in the spring time. Most play campaigns begin and succeed in the months of May and June. However, for most months, Kickstarters for plays are about 1.7 to 1.75 times as likely to succeed rather than fail across all years. Historically, August, October, and December are the worst months to start a Kickstarter for a theater project. December is by far the worst, with approximately one campaign failing for every successful one. August, October, and December coincide with the beginning of the school year and multiple major holidays. Generally, people have less disposable income for things like plays at these times of year and that might be one factor driving this trend.
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes_Based_on_Goals](./Resources/Outcomes_vs_Goals.pngresources\Outcomes_vs_Goals.png)
+![Outcomes_Based_on_Goals](resources\Outcomes_vs_Goals.png)
 
 Most Kickstarter campaigns for plays had goals of less than $10,000. Campaigns that had goals of less than $5000 have a historical 75% success rate (roughly 2:1 odds of succeeding). The majority of Kickstarter campains for plays asked for between $1000-$5000. Historically, as goals approach $10,000 the percentage of successful campaigns goes down from approximately 70/30 (roughly twice as likely to succeed as fail) to a coin flip (55/45, or roughly equally likely to succeed as fail). Past $15,000 Kickstarter campaigns for theaters are more likely to fail than succeed. There are very few data points above $25,000. Therefore, the results above that threshold cannot be reliably interpreted.
 
